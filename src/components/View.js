@@ -45,7 +45,7 @@ class View extends Component{
             displayType = 'text'
         }
 
-        console.log(this.state)
+        // console.log(this.state)
         return(
             <div>
                 View
